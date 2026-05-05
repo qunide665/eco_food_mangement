@@ -75,3 +75,4 @@ A full-stack web app for managing monthly food budgets and getting daily meal re
 - JWT extracted manually in each route (no passport middleware)
 - Frontend API calls via `frontend/src/lib/api.ts` functions
 - HashRouter: use `navigate('/path')` not `window.location.href`
+
